@@ -20,7 +20,7 @@ def searchFile(filename):
     file_found = False
     words = filename.split()
 
-    for root, dirs, files in os.walk('/media/', topdown=False):
+    for root, dirs, files in os.walk('/', topdown=False):
 
         for name in files:
             l_name = name.lower()
