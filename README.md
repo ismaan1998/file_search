@@ -1,5 +1,5 @@
 # file_search
-
+python package to search any file having a string.
 file search module will help you to find out the location of any file using a string.
 
 Example -
