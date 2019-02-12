@@ -1,3 +1,6 @@
+#author - indrajeet
+#tutor at Tech-Gram Academy
+
 import os
 import platform
 
